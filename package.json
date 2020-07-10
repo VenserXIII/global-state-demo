@@ -1,12 +1,8 @@
 {
-  "name": "react-typescript",
+  "name": "global-state-demo",
   "version": "1.0.0",
-  "description": "React and TypeScript example starter project",
-  "keywords": [
-    "typescript",
-    "react",
-    "starter"
-  ],
+  "description": "React + TypeScript Global State Demo",
+  "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
     "react": "16.13.1",
